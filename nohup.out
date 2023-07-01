@@ -1,0 +1,41 @@
+[I 17:27:30.936 NotebookApp] Writing notebook server cookie secret to /root/.local/share/jupyter/runtime/notebook_cookie_secret
+[I 17:27:32.095 NotebookApp] Serving notebooks from local directory: /home/ubuntu/ml-student-prediction
+[I 17:27:32.095 NotebookApp] Jupyter Notebook 6.5.4 is running at:
+[I 17:27:32.095 NotebookApp] http://ip-172-31-91-117:8888/
+[I 17:27:32.095 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 17:28:54.319 NotebookApp] 302 GET / (127.0.0.1) 0.540000ms
+[W 17:28:54.604 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[W 17:28:54.604 NotebookApp] Clearing invalid/expired login cookie username-localhost-8888
+[I 17:28:54.605 NotebookApp] 302 GET /tree? (127.0.0.1) 1.590000ms
+[W 17:29:03.061 NotebookApp] Not allowing login redirect to '/tree?'
+[I 17:29:03.061 NotebookApp] 302 POST /login?next=%2Ftree%3F (127.0.0.1) 72.820000ms
+[I 17:29:03.346 NotebookApp] 302 GET / (127.0.0.1) 0.450000ms
+[I 17:29:28.052 NotebookApp] Writing notebook-signing key to /root/.local/share/jupyter/notebook_secret
+[W 17:29:28.054 NotebookApp] Notebook notebook/2. MODEL TRAINING.ipynb is not trusted
+[I 17:29:30.417 NotebookApp] Kernel started: ed4abee5-bf5b-46da-b69f-62f6b8ddcd4b, name: python3
+[W 17:31:31.712 NotebookApp] 404 GET /api/contents/notebook/2.%20MODEL%20TRAINING.ipynb?content=0&_=1688232566497 (127.0.0.1): file or directory does not exist: 'notebook/2. MODEL TRAINING.ipynb'
+[W 17:31:31.712 NotebookApp] file or directory does not exist: 'notebook/2. MODEL TRAINING.ipynb'
+[W 17:31:31.712 NotebookApp] 404 GET /api/contents/notebook/2.%20MODEL%20TRAINING.ipynb?content=0&_=1688232566497 (127.0.0.1) 1.290000ms referer=http://localhost:8888/notebooks/notebook/2.%20MODEL%20TRAINING.ipynb
+[I 17:31:32.087 NotebookApp] Uploading file to /notebook/2. MODEL TRAINING.ipynb
+[W 17:31:32.087 NotebookApp] Notebook notebook/2. MODEL TRAINING.ipynb is not trusted
+[I 17:34:46.886 NotebookApp] Starting buffering for ed4abee5-bf5b-46da-b69f-62f6b8ddcd4b:73dd691aa7ef4982b2ce7942ad77dccc
+[W 17:34:58.589 NotebookApp] Notebook notebook/1 . EDA STUDENT PERFORMANCE .ipynb is not trusted
+[I 17:35:06.515 NotebookApp] Kernel started: ea415504-4265-4038-addb-f8bdbd58a333, name: python3
+[I 17:35:14.732 NotebookApp] Starting buffering for ea415504-4265-4038-addb-f8bdbd58a333:0693ad10b36448478e90c1ecfc84fd6b
+[I 17:35:14.741 NotebookApp] Kernel shutdown: ea415504-4265-4038-addb-f8bdbd58a333
+[I 17:35:15.256 NotebookApp] Kernel started: dbbb4c33-1a94-487c-b559-f52b2c46addf, name: mlproject
+[I 17:36:04.735 NotebookApp] Starting buffering for dbbb4c33-1a94-487c-b559-f52b2c46addf:0693ad10b36448478e90c1ecfc84fd6b
+[I 17:36:05.165 NotebookApp] Kernel restarted: dbbb4c33-1a94-487c-b559-f52b2c46addf
+[I 17:36:06.558 NotebookApp] Restoring connection for dbbb4c33-1a94-487c-b559-f52b2c46addf:0693ad10b36448478e90c1ecfc84fd6b
+[I 17:36:06.832 NotebookApp] Replaying 3 buffered messages
+[I 17:37:07.859 NotebookApp] Saving file at /notebook/1 . EDA STUDENT PERFORMANCE .ipynb
+[I 17:39:10.244 NotebookApp] Saving file at /notebook/1 . EDA STUDENT PERFORMANCE .ipynb
+[W 17:40:19.342 NotebookApp] Notebook notebook/2. MODEL TRAINING.ipynb is not trusted
+[I 17:40:29.724 NotebookApp] Starting buffering for ed4abee5-bf5b-46da-b69f-62f6b8ddcd4b:9d5dbfcf0bf3498ca31faac2e6c47cf4
+[I 17:40:29.743 NotebookApp] Kernel shutdown: ed4abee5-bf5b-46da-b69f-62f6b8ddcd4b
+[I 17:40:30.308 NotebookApp] Kernel started: 26b6719b-aecd-49fd-8f48-bca3811156e0, name: mlproject
+[I 17:40:45.559 NotebookApp] Starting buffering for 26b6719b-aecd-49fd-8f48-bca3811156e0:9d5dbfcf0bf3498ca31faac2e6c47cf4
+[I 17:40:45.796 NotebookApp] Kernel restarted: 26b6719b-aecd-49fd-8f48-bca3811156e0
+[I 17:40:47.463 NotebookApp] Restoring connection for 26b6719b-aecd-49fd-8f48-bca3811156e0:9d5dbfcf0bf3498ca31faac2e6c47cf4
+[I 17:40:47.777 NotebookApp] Replaying 5 buffered messages
+[I 17:41:11.101 NotebookApp] Saving file at /notebook/1 . EDA STUDENT PERFORMANCE .ipynb
